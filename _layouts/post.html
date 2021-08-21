@@ -1,13 +1,16 @@
+---
+---
 <!DOCTYPE html>
 <html>
 
-  {% include head.html %}
-
+  {% include theme_includes/head.html %}
     <body id="page-top" class="index">
-
     {% include header.html %}
-
-    {% post.description %}
-
+    <div class="container">
+      <h2 class="section-heading">{{page.title}}</h2>
+      {{ content }}
+    </div>
+    {% include theme_includes/footer.html %}
+    {% include theme_includes/js.html %}
     </body>
 </html>
