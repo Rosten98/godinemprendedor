@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+  {% include theme_includes/head.html %}
+
+
+    <body id="page-top" class="index">
+
+    {% include theme_includes/header.html %}
+    {% include theme_includes/services.html %}
+    {% include theme_includes/posts.html %}
+    {% include theme_includes/about.html %}
+    {% include theme_includes/team.html %}
+    {% include theme_includes/clients.html %}
+    {% include theme_includes/contact.html %}
+    {% include theme_includes/footer.html %}
+    {% include theme_includes/modals.html %}
+    {% include theme_includes/js.html %}
+
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
+    </body>
+</html>

@@ -5,6 +5,6 @@ media_folder: 'assets/uploads'
 collections:
   - name: 'blog'
     label: 'Blog'
-    folder: '_posts/blog'
+    folder: '_posts/blog/'
     fields:
       - { name: Title }
