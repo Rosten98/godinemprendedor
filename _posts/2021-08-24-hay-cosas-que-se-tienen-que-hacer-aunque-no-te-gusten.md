@@ -11,7 +11,10 @@ date: 2021-08-24T02:56:11.169Z
 A todos nos ha pasado que tenemos una idea extraordinaria y pensamos **"wow, esto me podría hacer millonario".** Pero ¿qué pasa después? ¿verdaderamente nos hacemos millonarios? Seguro que si, si te llamas Mark Zuckerberg. Y si Zuckerberg pudo, **¿entonces por qué aún habemos tantas personas con ideas de cambio innovadoras que no somos millonarias?** La respuesta es muy fácil, pero yo tuve que aprender a trapear para encontrarla.
 
 
+
 Cuando tenía unos 16 años trabajaba en un centro cultural como auxiliar administrativo; cobraba a los alumnos, hacía corte de caja y ayudaba con la organización de eventos, entre otras cosas. Entre mis actividades figuraba casi todo menos una: **hacer la limpieza del lugar**. Pero para Juan Carlos, mi tío y en ese momento mi jefe era diferente, porque su filosofía era **"las cosas no se van a hacer solas y no voy a esperar a que alguien más las haga"**. Él lo decía con palabras más coloquiales (y altisonantes) pero el mensaje que siempre trató de decirme era: Hazlo porque se tiene que hacer.
+
+
 
 Pasaban las semanas y no me cansaba de quejarme por tener que trapear cada fin de semana. Hasta que crecí y entendí entonces **el significado de "trapear" en la vida del Godín-Emprendedor:**
 
@@ -28,6 +31,8 @@ Pasaban las semanas y no me cansaba de quejarme por tener que trapear cada fin d
 
 
 **¿Qué cosa has aprendido de algo cotidiano que también sirva para emprender?**
+
+
 
 Sígueme en redes sociales.
 Comparte tus recomendaciones para ser un gran Godin. Inspira a los demás con tu historia de Emprendedor.
