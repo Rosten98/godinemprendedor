@@ -3,8 +3,7 @@ layout: post
 title: Hay cosas que se tienen que hacer aunque no te gusten
 header: 3 cosas que aprendí sobre trapear que sirven para emprender
 post_excerpt: Hasta la cosa más común puede dejarte la lección más grande. ¿Por
-  qué no soy millonario si tengo ideas revolucionarias? Tuve que aprender a
-  trapear para descubrirlo.
+  qué no soy millonario si tengo ideas revolucionarias?
 thumbnail: Diapositiva2.PNG
 date: 2021-08-24T02:56:11.169Z
 ---
