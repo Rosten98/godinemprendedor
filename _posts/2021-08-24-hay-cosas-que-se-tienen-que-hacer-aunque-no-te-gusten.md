@@ -7,6 +7,8 @@ post_excerpt: Hasta la cosa más común puede dejarte la lección más grande. �
 thumbnail: Diapositiva2.PNG
 date: 2021-08-24T02:56:11.169Z
 ---
+
+
 A todos nos ha pasado que tenemos una idea extraordinaria y pensamos **"wow, esto me podría hacer millonario".** Pero ¿qué pasa después? ¿verdaderamente nos hacemos millonarios? Seguro que si, si te llamas Mark Zuckerberg. Y si Zuckerberg pudo, **¿entonces por qué aún habemos tantas personas con ideas de cambio innovadoras que no somos millonarias?** La respuesta es muy fácil, pero yo tuve que aprender a trapear para encontrarla.
 
 
