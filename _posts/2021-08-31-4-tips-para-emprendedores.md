@@ -7,7 +7,7 @@ post_excerpt: "De lo que te quiero hablar hoy es lo siguiente: ¿Verdaderamente
   se puede emprender cuando trabajas? La respuesta corta es sí. Pero detrás de
   este futuro éxito que tendrás al empezar tu proyecto, hay muchas cosas que
   tienes que aprender a sacrificar."
-thumbnail: "1."
+thumbnail: diapositiva3.png
 date: 2021-08-31T05:10:09.172Z
 ---
 
